@@ -23,5 +23,9 @@
 - 起動時のクラッシュ対策を追加。
 - 録画コンテキストメニューに「エンコードの実行」を追加。（EPGStation-config内に定義した2番目のエンコード設定）
 
+### 0.0.0.4
+- 稼働中のクラッシュ対策を追加。
+
 ## 3. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
+- raspberry pi3、及びWindows 64bit。
