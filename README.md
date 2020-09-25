@@ -26,6 +26,11 @@
 ### 0.0.0.4
 - 稼働中のクラッシュ対策を追加。
 
+### 0.0.0.5
+- 録画の開始から１５秒後に通知する。
+- 録画の終了から３０秒後に通知する。
+- スレッドのlock時間を改善。
+
 ## 3. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
