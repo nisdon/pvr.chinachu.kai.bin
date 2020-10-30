@@ -68,6 +68,7 @@ pvr.chinachuをベースにEPGStation対応したものです。
 - タイマールール追加時のバグ修正録。
 - 録画の開始、又は終了から３０秒後に通知する。
 
-## 3. 使用条件
+## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
+- raspberryで使用する場合、kodi v18.4以前を推奨。
