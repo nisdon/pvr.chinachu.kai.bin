@@ -81,6 +81,10 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ### 0.0.0.10
 - ルールで追加されたタイマーを削除可能にする。
 
+### 0.0.0.11
+- 無効化された録画予約を一覧に表示する。
+- 録画予約の属性allowEndLackをデフォルトでfalseに変更。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
