@@ -85,6 +85,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 - 無効化された録画予約を一覧に表示する。
 - 録画予約の属性allowEndLackをデフォルトでfalseに変更。
 
+### 0.0.0.12
+- EPG取得処理の修正。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
