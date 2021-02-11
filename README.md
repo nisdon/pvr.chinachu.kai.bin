@@ -88,6 +88,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ### 0.0.0.12
 - EPG取得処理の修正。
 
+### 0.0.0.13
+- EPG取得処理のバグ修正。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
