@@ -94,6 +94,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 - 録画開始、終了から通知等の時間を変更。
 - スレッドのlock処理を変更。
 
+### 0.0.0.15
+- EPG取得時のlockを外す。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
