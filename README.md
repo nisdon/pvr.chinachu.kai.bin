@@ -97,6 +97,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ### 0.0.0.15
 - EPG取得時のlockを外す。
 
+### 0.0.0.16
+- データ別にlock処理を分散。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
