@@ -100,6 +100,11 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ### 0.0.0.16
 - データ別にlock処理を分散。
 
+### 0.0.0.17
+- 予約の登録をEPGの範囲内に制限。
+- IsEPGTagPlayableの戻り値を常にfalseに変更。
+- IsEPGTagRecordableを現在時間の前後で切り替え。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
