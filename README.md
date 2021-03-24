@@ -105,6 +105,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 - IsEPGTagPlayableの戻り値を常にfalseに変更。
 - IsEPGTagRecordableを現在時間の前後で切り替え。
 
+### 0.0.0.18
+- 起動時にEPGStationの接続をチェックする。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
