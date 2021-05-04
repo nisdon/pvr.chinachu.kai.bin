@@ -117,4 +117,3 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
-- raspberry piで使用する場合、kodi v18.4以前を推奨。
