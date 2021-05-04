@@ -111,6 +111,9 @@ pvr.chinachuをベースにEPGStation対応したものです。
 ### 0.0.0.19
 - 録画コンテキストメニューに「ドロップログの表示」を追加。
 
+### 0.0.0.20
+- kodi 18.4以上のライブTV視聴問題に対応。
+
 ## 4. 使用条件
 - EPGStationのconfig設定として"convertDBStr=twoByte"を定義。
 - raspberry pi3、及びWindows 64bit。
